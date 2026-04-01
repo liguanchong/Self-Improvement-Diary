@@ -10,21 +10,99 @@
 ### 晚上接我的宝贝下班，我们去公园逛了逛，走了一圈，然后回家了，到家之后看了一会手机，然后我们一起玩游戏-金铲铲之战，很开心，每天都可以和我宝贝玩几把游戏，我宝贝吃了很多零食，没有吃饭，我也吃了一点零食，没忍住，吃了点牛肉干，我宝贝的牙吃疼了，牛肉干太硬，去刷牙之后就好了，哈哈。之后我开始复习了一下英语，写了我的第一篇笔记，对了，今天学习了走遍美国第一集和老友记第九季15集的内容。
 ### 翻译
 
-I graduated from an ordinary university in 2022 and have worked as a developer for nearly four years. I have experience in Java and Go, and I am now a full-stack developer. I taught myself all the technical skills. Over these years, I feel I haven’t made much progress, so I want to improve myself.
+I graduated from a regular college back in 2022,
+and I’ve been working as a developer for almost four years now.
  
-I plan to learn AI, AI application development, English, and keep fit to enhance both my abilities and health. I am determined to make a change and use GitHub to record my daily growth, while translating my journal entries into English for language learning.
+I’ve worked with Java and Go,
+and now I’m a full-stack developer.
+I taught myself everything.
  
-The world is big, and I want to explore it with my girlfriend, traveling to every corner of the globe. Life is short, and my dream is to travel around the world. That is why I want to better myself, master English, and improve my technical skills. I will keep a daily journal to push myself forward. I hope I can stick to it and that by next year, I will have a strong body and speak fluent English. Keep going!
+But over these years,
+I just feel like I haven’t improved much,
+so I really wanna level up.
  
-Today is the first day of my plan, and I am glad I stuck to it. I learned many new words: pregnancy, surpass the present, advertisement, incredible, maximize, internship, expect, item, training program, recruitment, ground staff, odor, adult, humiliation, noble, come up with an album, ferry, photographer, appreciate, California, reflect, point, pleasure, Greece. Writing them down again helps strengthen my memory.
+I’m gonna learn AI,
+AI app development, English,
+and start working out
+to get stronger and healthier.
  
-I also worked out at noon by climbing 20 floors of stairs. My physical fitness is not as good as before—I once could climb 100 floors in one go—but I will gradually get back into shape. I overlooked the distance from the rooftop to relieve eye strain while listening to an English livestream, exercising for about an hour.
+I’m serious about changing my life,
+and I’m gonna use GitHub
+to track my progress every single day.
  
-In the evening, I picked up my baby from work. We walked around the park and then went home. After arriving, I scrolled through my phone for a while, and then we played Golden Spade Wars together. It was such a joy to play a few rounds with her every day.
+I’ll even translate my daily notes into English
+to practice.
  
-My baby ate a lot of snacks instead of dinner. I also gave in to temptation and had some beef jerky. Unfortunately, her teeth hurt because the beef jerky was too hard, but she felt better after brushing her teeth, haha.
+The world is huge,
+and I wanna see it with my girlfriend,
+traveling to every corner of the globe.
  
-Afterward, I reviewed my English vocabulary and wrote my first journal entry. By the way, today I studied Episode 1 of Family Album USA and Episode 15 of Season 9 of Friends.
+Life is short,
+and my dream is to travel the world.
+ 
+That’s why I wanna better myself,
+speak good English,
+and get better at coding.
+ 
+I’ll keep a daily journal to push myself.
+Hope I can stick with it.
+ 
+Next year,
+I wanna be in great shape
+and speak fluent English.
+Let’s go!
+ 
+Today is day one of my plan,
+and I’m happy I actually followed through.
+ 
+I learned a bunch of new words:
+pregnant、get past the moment、advertising、incredible、make the most、internship、expect、stuff、training program、hire、ground work、stink、grown man、humiliating、noble、come up with、album、ferryboat、photographer、appreciate、California、reflect、point、pleasure、Greece、Greek.
+ 
+Writing them down again
+really helps me remember better.
+ 
+I also worked out at noon —
+climbed 20 flights of stairs.
+ 
+I’m not in as good shape as I used to be.
+I once did 100 floors straight.
+But I’ll get back there slowly.
+ 
+I stood on the rooftop
+and looked far away to rest my eyes,
+listened to an English live stream,
+and exercised for about an hour.
+ 
+Tonight I picked up my baby from work.
+We walked around the park,
+then headed home.
+ 
+Got home,
+messed around on my phone for a bit,
+then we played Golden Spade Wars together.
+ 
+It’s so fun
+playing a few games with her every day.
+ 
+She ate tons of snacks
+instead of dinner.
+I gave in too
+and had some beef jerky.
+ 
+Only problem was,
+her teeth started hurting
+’cause the beef jerky was really hard.
+ 
+But she felt better
+after brushing her teeth, haha.
+ 
+After that,
+I went over my English words
+and wrote my first journal entry.
+ 
+Oh,
+and I watched Episode 1 of Family Album USA
+and Season 9 Episode 15 of Friends today.
 
 <img width="1203" height="912" alt="image" src="https://github.com/user-attachments/assets/fe84851a-2548-4924-b929-4b9830088313" />
 
