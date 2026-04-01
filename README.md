@@ -106,3 +106,7 @@ and Season 9 Episode 15 of Friends today.
 
 <img width="1203" height="912" alt="image" src="https://github.com/user-attachments/assets/fe84851a-2548-4924-b929-4b9830088313" />
 
+## 20260401
+### 今天起床送我宝贝上班，然后去早市买点一些早餐，买了3个煮好的玉米，买了两个鸡肉蛋堡，早市的摊位换了位置，小吃的都挪到了中间，我和我宝贝说肯定是管理人员想让你多买东西，让你多逛一些，完事我就回家了，开始工作，工作到了中午。
+### 午休时，开始学习英语，中午喝了一些牛奶和昨天买的牛肉干，一些小吃，还有早上的玉米，一边吃饭一边学习英语，继续学习老友记，然后整理昨天的笔记，并且跟着豆包练习阅读，学习不会的单词，学了很多新单词和短语。regular，full-stack，working out，serious about，track my progress every single day，corner of the globe，keep a daily journal，push myself，stick with it，shape，followed through，a bunch of，flights of staire == floors，mess around on my phone，a ton of snacks，intead of dinner，pork/beef jerky，season 9 episode 15，bacon，agent，audition，Broadway，theater，underneath，deli，starring，directing，previews，commercial，giant，steelworkers，vendors，ambulance。
+### 晚上下班后接我宝贝下班，然后我们一起开车回了老家，大约开了一个半小时，然后我们去吃了米线，买了一些水果，有草莓，吃完之后回家了，今晚项目有升级，升级的时候遇到了一些问题——ClickHouse 默认禁止 分布式表 JOIN 分布式表，采用 GLOBAL LEFT JOIN解决，后来解决就顺利上线了。之后我锻炼了一会，骑了一会单车，骑出汗了，达到了今天的运动量，然后开始写今天的笔记，今天也坚持了下来，继续加油！
