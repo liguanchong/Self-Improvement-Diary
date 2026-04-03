@@ -103,7 +103,7 @@ and wrote my first journal entry.
 Oh,
 and I watched Episode 1 of Family Album USA
 and Season 9 Episode 15 of Friends today.
-
+### 
 <img width="1203" height="912" alt="image" src="https://github.com/user-attachments/assets/fe84851a-2548-4924-b929-4b9830088313" />
 
 ## 20260401
@@ -115,6 +115,7 @@ and Season 9 Episode 15 of Friends today.
 ### For my lunch break, I dived into my English study. I chowed down on some milk, the beef jerky I picked up yesterday, a couple other snacks, and the leftover corn from that morning. I studied the whole time I ate—kept rolling with Friends, sorted through my notes from the day before, practiced my reading with Doubao, and looked up every single word I didn’t know. I picked up a ton of new vocab and phrases, including:regular, full-stack, working out, serious about, track my progress every single day, corner of the globe, keep a daily journal, push myself, stick with it, shape, followed through, a bunch of, flights of stairs (aka floors), mess around on my phone, a ton of snacks, instead of dinner, pork/beef jerky, season 9 episode 15, bacon, agent, audition, Broadway, theater, underneath, deli, starring, directing, previews, commercial, giant, steelworkers, vendors, ambulance.
 ### Once I wrapped up work for the night, I went to pick my babe up from her job. We hopped in the car and drove back to our hometown, which took about an hour and a half. We stopped for rice noodles on the way, grabbed some fresh fruit too—strawberries, specifically—then headed home after we finished eating. We had a scheduled project rollout tonight, and I hit a couple snags during deployment: ClickHouse blocks JOINs between two distributed tables by default. I fixed it by swapping to a GLOBAL LEFT JOIN, and once that was sorted, the whole thing went live smooth as butter.
 ### After that, I squeezed in a workout: hopped on the exercise bike for a bit, worked up a good sweat, and hit my daily fitness goal. Then I sat down to bang out this journal entry. I showed up and stuck with it again today—keep grinding!
+### 
 <img width="1224" height="921" alt="image" src="https://github.com/user-attachments/assets/3b98ba0b-1baa-4fa0-8e09-10ae19bace60" />
 
 ## 20260402
@@ -127,6 +128,7 @@ Then we went home. I asked my mom to make potato pancakes — my babe loves them
 After eating, I studied English. I didn’t watch any American shows today; instead, I studied English songs and reviewed yesterday’s notes. I learned a bunch of new words and phrases:drop off, hit up, grab a coffee, pre-cooked, chicken patties, all the stalls there get rearranged, snack vendor, drop more cash, head straight home, crush it straight till noon, dive into, chowed down on beef jerky, pick up, a couple other, leftover corn, rolling with Friends, sort through my notes, a ton of vocab and phrases, wrapped up work, pick up, stop for, strawberry, a couple snags, project rollout, block, distributed tables, swapping to, smooth as butter, fitness, bang out, stick with it, keep grinding, cucumber, squeeze in, sweat, hit goal.
 While learning English songs, I felt my speaking got smoother. I could really tell I’m improving.I worked out again at night — rode the exercise bike, broke a sweat, and hit my daily goal.
 I was pretty tired today, so I wrote this journal the next day.All in all, it was another full, meaningful day!
+### 
 <img width="1677" height="1152" alt="image" src="https://github.com/user-attachments/assets/177e78a5-472a-4276-b408-e849d7a5eeaf" />
 
 
