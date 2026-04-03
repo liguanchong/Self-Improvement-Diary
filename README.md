@@ -117,3 +117,9 @@ and Season 9 Episode 15 of Friends today.
 ### After that, I squeezed in a workout: hopped on the exercise bike for a bit, worked up a good sweat, and hit my daily fitness goal. Then I sat down to bang out this journal entry. I showed up and stuck with it again today—keep grinding!
 <img width="1224" height="921" alt="image" src="https://github.com/user-attachments/assets/3b98ba0b-1baa-4fa0-8e09-10ae19bace60" />
 
+## 20260402
+### 今天回到了老家，在老家起床，我宝贝收拾自己，化妆，然后我们去吃了板面，这家我们经常去吃，很好吃的板面，我们点了两个鸡头，4个豆卷，4根肠，1个鸡蛋。然后我们决定去故地重游，我们开车去了十年前我们刚在一起时去的地方，时间真快呀，我们在一起已经快十年了，在车上我俩就在感慨，之前是坐火车去的，现在已经可以开着自己的小汽车了，还坐了十年前做过的缆车，感觉很幸福。之后我们就回家了，回家之后我让老妈做了土豆饼，我宝贝很喜欢吃，我们又买了一些水果，香蕉，西瓜，火龙果，然后定了一些外卖，有辣子鸡，酸菜炒粉，蛋黄焗南瓜，吃完之后我开始学英语，今天没有学习美剧，学习了英语歌和复习昨天的笔记，也学习了很多新单词和短语，drop off，hit up，grab a coffee，pre——cooked，chicken and patties，all the stalls there get rearranged，snack vendor，drop more cash，head straight home，crush it straight till noon，dive into，chowed down on beef jerky，pick up，a couple other，leftover corn，rolling with frends，sort through my note，a ton of vocab and phrase，wrapped up work，pick up，stop for，strawberry，a couple snags，project rollout，block，distribute tables，swapping to，smooth as butter，fitness，bang out，stick with id，keep grinding，cucumber，squeeze in，sweat，hit goal。
+### 学习英语歌的时候感觉自己可以说的更顺畅了，感觉到了一些进步，晚上也锻炼了一会，起了单车，也出汗了，完成了运动目标，今天有点累了，笔记是第二天补的，今天也是充实的一天！
+<img width="1677" height="1152" alt="image" src="https://github.com/user-attachments/assets/177e78a5-472a-4276-b408-e849d7a5eeaf" />
+
+
