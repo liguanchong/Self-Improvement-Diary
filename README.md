@@ -85,7 +85,7 @@
 # 
 <img width="914" height="621" alt="image" src="https://github.com/user-attachments/assets/d7ba942e-543d-43db-833b-e877beec9d78" />
 
-## 20260409
+## 20260410
 ### 今天早上起床，然后洗漱，完事去送我宝贝上班，我在早市买了小玉米面饼和煮熟的玉米，早餐吃了这些，然后买了一些土豆和西红柿，买完东西就回家了，开始工作，处理客户问题，开发功能、联调，然后到中午开始学英语，先复习了昨天的笔记，然后开始看老友记学习，也学习了很多单词和短语，black，dial，bazzer，grocery，reservation，ginger ale，chablis，mee krob，crispy，rose petal，universe，vice president，certified，accountant，overcast，have a day off，kitchen，tidy up，spotless，buffer，beg to，round，bank statement，exactly，inclind to，blame，internship，chef，wost case secnario，tube top，boxer，partly，crack，sock，soap opera，crawl，electrocute，handyman，hardware。空闲时候也看了一些英语口语直播，感觉听的更清晰了，哈哈，这就是我正向的动力。
 ### 傍晚，我做了西红柿炒鸡蛋，也炒了土豆片，然后接我宝贝下班，到家之后我们一起吃饭，我宝贝吃撑了，说太好吃啦，我厨艺确实很好。吃完饭我们各自玩手机，我看了会动漫，她看综艺和电视剧。晚上我继续学了走遍美国，感觉自己进步了一些，然后睡觉了，又是充实的一天，继续加油！
 ## 翻译
@@ -93,3 +93,12 @@
 ### In the evening, I made scrambled eggs with tomatoes and stir-fried potato slices. Then I picked up my baby from work. We had dinner together when we got home. She was totally stuffed and said the food was amazing. I’m really good at cooking. After dinner, we each used our phones; I watched some anime while she watched variety shows and TV dramas. At night, I kept studying *Family Album USA* and felt I had improved a little. Then I went to bed. It was another fulfilling day, keep it up!
 # 
 <img width="912" height="645" alt="image" src="https://github.com/user-attachments/assets/e5fc612f-bb05-4807-af94-ae2aa597f05e" />
+
+## 20260411
+### 今天早上起床，然后洗漱，完事去送我宝贝上班，我在早市买了小玉米面饼和煮熟的玉米，早餐吃了这些，然后今天没有买菜，我在公园的健身器材处健身，锻炼腿，胳膊和肚子，然后回家了，到家之后玩了一会手机，到了中午，我吃了西红柿鸡蛋炒饭，然后我去骑自行车锻炼，很久没骑了，车子后面的刹车坏了，去修车店修好了，花了五十块钱，然后开始骑车，沿着河边，再沿着公路，一路上景色很美，花都开了，小草和树叶也绿了，最后骑到了海边，躺着歇了一会就回家了。骑车的同时听了走遍美国的讲解，感觉听的更清晰了，哈哈，这就是我正向的动力。
+### 傍晚，接我宝贝下班，到家之后我们一起吃饭，我们买了一些烧烤和一个熏鸡，还有昨天的土豆片，我宝贝吃撑了，说太好吃啦，我厨艺确实很好。吃完饭我们各自玩手机，她看综艺和电视剧。我宝贝吵着要和我玩游戏，我没玩，我去学了一会英语，复习昨天的笔记，然后看了一会老友记，今天没有学习太多，也学了一些新单词和短语，wheat flour，aisle，highlight，obvious，classy，conventional，load，bet，roomis，groomis，pattern。我决定明天把这些天学习的东西整合到一起，一起复习一下，强化一下，感觉之前有一些都忘了，学习就是这么循序渐进的过程，继续加油！
+## 翻译
+### I got up this morning, washed up, then dropped my baby off at work. I bought small corn cakes and boiled corn at the morning market for breakfast. I didn’t buy any vegetables today. I worked out at the park using the fitness equipment, exercising my legs, arms, and core. Then I went home and messed around on my phone for a while. At noon, I had tomato and egg fried rice. After that, I went out for a bike ride. I hadn’t ridden in a long time, and the rear brake was broken, so I got it fixed at a repair shop for fifty yuan. Then I started riding — along the river, then down the road. The scenery was beautiful; flowers were blooming, grass and leaves were green, and I finally rode all the way to the seaside. I lay down and rested for a bit before heading back. While riding, I listened to explanations of *Family Album USA*, and I could understand much more clearly now, haha. That’s my positive motivation.
+### In the evening, I picked up my baby from work, and we had dinner together at home. We got some barbecue, a smoked chicken, and leftover potato slices from yesterday. She was totally stuffed and said it was all delicious. I’m really good at cooking. After dinner, we each used our phones; she watched variety shows and dramas. She begged me to play games with her, but I didn’t — instead, I studied English for a while, reviewed yesterday’s notes, and watched some *Friends*. I didn’t learn a huge amount today, but I picked up a few new words and phrases: wheat flour, aisle, highlight, obvious, classy, conventional, load, bet, roomie, groomie, pattern. I’ve decided to put together everything I’ve learned these days tomorrow and review it all at once to reinforce my memory, because I feel like I’ve forgotten some of the earlier stuff. Learning is just a gradual process like this. Keep it up!
+# 
+<img width="738" height="678" alt="image" src="https://github.com/user-attachments/assets/72ef92f4-2c96-47a3-ad89-d03a6d1f4ad1" />
